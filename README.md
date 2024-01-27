@@ -1,0 +1,1 @@
+# bot_extract_text
